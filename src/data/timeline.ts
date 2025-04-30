@@ -4,7 +4,7 @@ export const timelineData: TimelineItem[] = [
   {
     year: '2025',
     title: 'Event Coordinated: Roadies',
-    description: 'Coordinated the Roadies event at college, managing tasks, logistics, and team operations to ensure a fun and successful competition.',
+    description: 'Coordinated the 'Roadies' event at a national-level tech fest, managing event planning, execution, and team coordination to ensure a thrilling and successful experience.',
     icon: 'Award'
   },
   {
