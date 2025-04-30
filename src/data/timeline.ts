@@ -3,6 +3,12 @@ import { TimelineItem } from '../types';
 export const timelineData: TimelineItem[] = [
   {
     year: '2025',
+    title: 'Event Coordinated: Roadies',
+    description: 'Coordinated the Roadies event at college, managing tasks, logistics, and team operations to ensure a fun and successful competition.',
+    icon: 'Award'
+  },
+  {
+    year: '2025',
     title: 'Project Competition',
     description: 'Won my First Project Presentation Competition.',
     icon: 'Award'
