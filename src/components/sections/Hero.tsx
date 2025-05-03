@@ -187,7 +187,7 @@ const Hero: React.FC = () => {
           >
             {/* Profile Image */}
             <motion.div 
-              className="w-48 h-48 mb-8 relative mx-auto md:mx-0"
+              className="w-60 h-60 mb-8 relative mx-auto md:mx-0"
               initial={{ opacity: 0, scale: 0.5 }}
               animate={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.5 }}
